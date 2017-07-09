@@ -94,7 +94,7 @@ $result = $conn->query($sql);
  	$num = 100; 
  	$num1=7;
  }
- echo $num1;
+ //echo $num1;
 ?>
 
 
@@ -181,7 +181,7 @@ $result = $conn->query($sql);
 <?php
   $stat_arr= array("  ", "Seller Processing", "Shipped", "Consignment Received", "Consignment Dispatched", "Reached Destination", "Out for Delivery", "Successfully Delivered");
   if($num1==1):
-  echo$num1;  
+  //echo$num1;  
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
@@ -232,7 +232,7 @@ $result = $conn->query($sql);
 
 elseif($num1==2):
   
- echo $num1;
+ //echo $num1;
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
@@ -285,7 +285,7 @@ elseif($num1==2):
 
 <?php
 elseif($num1==3): 
- echo $num1;
+ //echo $num1;
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
@@ -337,7 +337,7 @@ elseif($num1==3):
 
 <?php
 elseif($num1==4):
- echo $num1;
+ //echo $num1;
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
@@ -386,7 +386,7 @@ elseif($num1==4):
 
 <?php
 elseif($num1==5):
- echo $num1;
+ //echo $num1;
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
@@ -435,7 +435,7 @@ elseif($num1==5):
 
 <?php
 elseif($num1==6):
- echo $num1;
+ //echo $num1;
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
@@ -484,7 +484,7 @@ elseif($num1==6):
 
 <?php
 elseif($num1==7):
- echo $num1;
+ //echo $num1;
     ?>
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <div class="progress">
